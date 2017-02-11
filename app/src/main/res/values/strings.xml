@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Circuler Reveal</string>
+
+    <string name="travel_event">Travel Event</string>
+    <string name="destination">Travel Destination</string>
+    <string name="EstBudget">Estimated Budget</string>
+    <string name="startDate">From Date</string>
+    <string name="endDate">To Date</string>
+    <string name="event">Create Event</string>
+    <string name="image">Tour</string>
+</resources>
